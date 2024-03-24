@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      Welcome to my LinkedIn! I'm Mahimna Mehta, a fervent front-end developer and ReactJS expert dedicated to crafting engaging user experiences. With a rich background in both web and mobile app development, my skills flourish in creating dynamic, responsive designs and in bringing complex functionalities to life. As a freelancer, I pride myself on delivering projects that not only meet but exceed client expectations, driven by my passion for innovation and excellence in front-end development. Certified in front-end development by Meta and Code-Camp, my mission is to continuously expand my expertise and connect with professionals to share insights and explore new opportunities. Whether you're interested in collaboration or seeking a skilled developer, I'm open to various engagements and excited to connect with individuals passionate about technology and development. Let's make a meaningful impact together. Contact me at +1 438-466-7817 or mahimna.mehta99@icloud.com.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
